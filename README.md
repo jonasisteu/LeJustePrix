@@ -8,22 +8,38 @@ J'ai créé un script **bash** s'inpirant du jeu télévisé *Le Juste Prix*.
 
 ### En quoi consiste le jeu ?
 
-:100: - Génère un nombre aléatoire entre 1 et 100
+- :100: Génère un nombre aléatoire entre 1 et 100
 
-:pen: - Propose d'écrire un nombre
+- :pen: Propose d'écrire un nombre
 
-:exclamation: - Renvoie si le nombre est au-dessus ou en-dessous du nombre mystère
+- :exclamation: Renvoie si le nombre est au-dessus ou en-dessous du nombre mystère
 
 ## Installation
 
 ### Installation du dossier contenant le jeu
 
-Vous pouvez cliquer sur le bouton de téléchargement pour télécharger le fichier en .zip puis l'extraire.
-Une fois extrait, accédez au dossier dans lequel vous l'avez extrait avec la commande ```cd Chemin/Vers/Dossier```.
-Avec un ```ls``` vous devriez à présent voir un ```README.md```, et aussi le ```justeprix.sh```
+1. Téléchargez le fichier `.zip` contenant le projet en cliquant sur le bouton **Code** et en sélectionnant **Download ZIP**.
+2. Extrayez le fichier `.zip` dans un dossier de votre choix.
+3. Accédez au dossier extrait à l'aide de la commande suivante :
+
+   ```bash
+   cd Chemin/Vers/Dossier
+
+Vérifiez que vous y trouvez le fichier README.md ainsi que le script justeprix.sh en utilisant la commande ls.
 
 ### Comment jouer au jeu ?
 
-Pour le le lancer, il suffit de l'exécuter avec la commande ```./justeprix.sh``` ou ```bash justeprix.sh```, une fois se trouvant dans le fichier du repo.
+Ouvrez un terminal et accédez au répertoire où vous avez extrait le projet.
 
-Amusez-vous bien !
+Exécutez le script avec l'une des commandes suivantes :
+
+   ```bash
+   ./justeprix.sh
+
+ou
+
+  ```bash
+  bash justeprix.sh
+
+#### Amusez-vous à deviner le nombre mystère !
+
