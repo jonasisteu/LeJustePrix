@@ -35,7 +35,7 @@ Exécutez le script avec l'une des commandes suivantes :
   
    ```./justeprix.sh```
 
-  ou
+ou
 
    ```bash justeprix.sh```
 
