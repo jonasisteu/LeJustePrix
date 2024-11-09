@@ -33,13 +33,13 @@ Ouvrez un terminal et accédez au répertoire où vous avez extrait le projet.
 
 Exécutez le script avec l'une des commandes suivantes :
 
-   ```bash
-   ./justeprix.sh
-
+  ```bash
+  ./justeprix.sh
+  ```
 ou
-
-   ```bash
-   bash justeprix.sh
+  ```bash
+  bash justeprix.sh
+  ```
 
 #### Amusez-vous à deviner le nombre mystère !
 
