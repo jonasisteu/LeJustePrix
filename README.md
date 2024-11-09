@@ -8,11 +8,9 @@ J'ai créé un script **bash** s'inpirant du jeu télévisé *Le Juste Prix*.
 
 ### En quoi consiste le jeu ?
 
-- :100: Génère un nombre aléatoire entre 1 et 100
-
-- :pen: Propose d'écrire un nombre
-
-- :exclamation: Renvoie si le nombre est au-dessus ou en-dessous du nombre mystère
+- :100: Le script génère un nombre aléatoire entre 1 et 100.
+- :pen: Vous proposez un nombre pour tenter de deviner ce nombre mystère.
+- :exclamation: Le script vous indique si votre proposition est au-dessus ou en-dessous du nombre mystère.
 
 ## Installation
 
