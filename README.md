@@ -11,6 +11,7 @@ J'ai créé un script **bash** s'inpirant du jeu télévisé *Le Juste Prix*.
 :100: - Génère un nombre aléatoire entre 1 et 100
 
 :pen: - Propose d'écrire un nombre
+
 :exclamation: - Renvoie si le nombre est au-dessus ou en-dessous du nombre mystère
 
 ## Installation
