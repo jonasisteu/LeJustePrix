@@ -22,7 +22,8 @@ J'ai créé un script **bash** s'inpirant du jeu télévisé *Le Juste Prix*.
 2. Extrayez le fichier `.zip` dans un dossier de votre choix.
 3. Accédez au dossier extrait à l'aide de la commande suivante :
 
-   ```cd Chemin/Vers/Dossier```
+   ```bash
+   cd Chemin/Vers/Dossier
 
 4. Vérifiez que vous y trouvez le fichier README.md ainsi que le script justeprix.sh en utilisant la commande ls.
 
@@ -32,12 +33,13 @@ Ouvrez un terminal et accédez au répertoire où vous avez extrait le projet.
 
 Exécutez le script avec l'une des commandes suivantes :
 
-  
-   ```./justeprix.sh```
+   ```bash
+   ./justeprix.sh
 
 ou
 
-   ```bash justeprix.sh```
+   ```bash
+   bash justeprix.sh
 
 #### Amusez-vous à deviner le nombre mystère !
 
